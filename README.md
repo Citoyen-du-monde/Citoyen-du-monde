@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Citoyen-du-monde
 - 👀 I’m interested in developing new systems
-- 🌱 I’m currently learning any thing new
+- 🌱 I’m currently learning anything new that I'm interested in
 - 📫 How to reach me citoyen-du-monde85@proton.me
 
 <!---
